@@ -1,0 +1,188 @@
+{
+  "open-accessibility-panel": "فتح أداة سهولة الوصول",
+  "close-accessibility-panel": "إغلاق أداة سهولة الوصول",
+
+  "popup-title": "أداة منير لسهولة الوصول",
+
+  "oversize": "تكبير أزرار الأداة",
+  "colors-settings": "إعدادات الألوان",
+
+  "section-accessibility-modes": "أنماط المساعدة",
+
+  "mode-epilepsy-title": "الوضع الآمن للصرع",
+  "mode-epilepsy-short": "تقليل الألوان وإزالة الوميض",
+  "mode-epilepsy-description": "يتيح هذا الوضع لمن يعانون من الصرع استخدام الموقع بأمان من خلال التخلص من خطر النوبات الناجمة عن تحركات ووميض الألوان وتركيبات الألوان الخطرة.",
+
+  "mode-visually-impaired-title": "ضعف الرؤية",
+  "mode-visually-impaired-short": "تحسين مظهر المواقع",
+  "mode-visually-impaired-description": "يعد هذا الوضع تعديلاً للموقع لراحة المستخدمين ذوي إعاقة بصرية مثل ضعف النظر، والرؤية المحدودة، والجراحة على المياه البيضاء، والزرق، وغيرها.",
+
+  "mode-cognitive-disability-title": "الإعاقة العقلية",
+  "mode-cognitive-disability-short": "يساعد على التركيز على المحتوى المعين",
+  "mode-cognitive-disability-description": "يقدم هذا الوضع خيارات مساعدة مختلفة لمساعدة المستخدمين ذوي الإعاقة العقلية مثل صعوبات القراءة (الدسليكسيا)، والتوحد، والسكتة الدماغية، وغيرها، لتمكنهم من التركيز على العناصر الأساسية للموقع بشكل أسهل.",
+
+  "mode-motor-impaired-title": "الإعاقة الحركية",
+  "mode-motor-impaired-short": "يسهل تصفح الموقع باستخدام لوحة المفاتيح",
+  "mode-motor-impaired-description": "هذا الوضع يمكّن الأشخاص الذين يعانون من إعاقات حركية من تشغيل الموقع باستخدام لوحة المفاتيح من خلال مفاتيح  Tab  و Shift+Tab  ومفتاح  Enter . يمكن للمستخدمين أيضًا استخدام برامج التعرف على الكلام مثل  Dragon Naturally Speaking .",
+
+  "mode-adhd-friendly-title": "ADHD اضطراب نقص الانتباه وفرط النشاط",
+  "mode-adhd-friendly-short": "تقليل التشتت وتحسين التركيز",
+  "mode-adhd-friendly-description": "يساعد هذا الوضع المستخدمين الذين يعانون من اضطراب نقص الانتباه واضطرابات التنمية العصبية على القراءة والتصفح والتركيز على العناصر الأساسية للموقع بشكل أسهل مع تقليل كبير للتشتت.",
+
+  "mode-colorblind-title": "وضع عمى الألوان",
+  "mode-colorblind-short": "تغيير وتخصيص الألوان لتلائم المصابين بعمى الألوان",
+  "mode-colorblind-description": "هذا الوضع يعدل الموقع للمستخدمين الذين يعانون من عمى الألوان مثل البروتانوبيا والديوتيرانوبيا والتريتانوبيا، بالإضافة إلى مساعدة مستخدمين يعانون من المياه البيضاء والزرقاء (الجلوكوما).",
+
+  "mode-dyslexia-friendly-title": "صعوبات القراءة (ديسليكسيا)",
+  "mode-dyslexia-friendly-short": "خطوط مخصصة لمن يعانون من عسر القراءة",
+  "mode-dyslexia-friendly-description": "هذا الوضع يعدل الموقع ليصبح أسهل قراءةً للأشخاص الذين يعانون من صعوبات القراءة (الدسليكسيا)، وهي إعاقة قراءة يعاني المصاب من صعوبة القراءة على الرغم من وجود الذكاء الطبيعي.",
+
+  "mode-blind-users-title": "وضع العمى",
+  "mode-blind-users-short": "يسمح باستخدام الموقع مع قارئ الشاشة",
+  "mode-blind-users-description": "يكوّن هذا الوضع الموقع ليكون متوافقًا مع قارئي الشاشة مثل JAWS، وNVDA، وVoiceOver، وTalkBack. قارئ الشاشة هو برنامج للمستخدمين الغير مبصرين، يتم تثبيته على الكمبيوتر والهاتف الذكي، ويجب أن تكون المواقع متوافقة معه.",
+
+  "lear-more-wikipedia": "تعرف على المزيد في ويكيبيديا",
+  "online-dictionary": "قاموس على الإنترنت",
+  "search-placeholder-wikipedia": "ابحث في القاموس على الإنترنت...",
+
+  "section-readable-experience": "تجربة قراءة مريحة",
+  "voice-navigation": "الأوامر الصوتية",
+  "content-scaling": "تغيير حجم المحتوى",
+  "content-size": "حجم المحتوى",
+  "text-magnifier": "مكبر النص",
+  "readable-font": "خط لقراءة أسهل",
+  "dyslexia-font": "خط الدسليكسيا",
+  "highlight-titles": "تمييز العناوين",
+  "highlight-links": "تمييز الروابط",
+  "font-sizing": "تغيير حجم الخط",
+  "font-size": "حجم الخط",
+  "line-height": "تباعد الأسطر",
+  "letter-spacing": "تباعد الحروف",
+  "word-spacing": "تباعد الكلمات",
+  "letter-space": "تباعد الحرف",
+  "align-left": "محاذاة إلى اليسار",
+  "align-center": "محاذاة في الوسط",
+  "align-right": "محاذاة إلى اليمين",
+  "align-justify": "محاذاة مضبوطة",
+  "text-alignment": "محاذاة النص",
+
+  "section-visually-pleasing-experience": "تجربة بصرية ممتعة",
+  "smart-contrast": "تباين ذكي",
+  "dark-contrast": "تباين داكن",
+  "light-contrast": "تباين خفيف",
+  "invert-colors": "عكس الألوان",
+  "monochrome": "أحادي اللون",
+  "high-contrast": "تباين عالي",
+  "high-saturation": "تشبع عالي",
+  "low-saturation": "تشبع منخفض",
+  "text-colors": "ضبط ألوان النص",
+  "title-colors": "ضبط ألوان العناوين",
+  "background-colors": "ضبط ألوان الخلفية",
+  "reset-colors": "إعادة الألوان",
+
+  "section-easy-orientation": "قابلية الانتقال والتوجيه",
+  "mute-sounds": "كتم الأصوات",
+  "hide-images": "إخفاء الصور",
+  "image-alt": "تلميحات الصور",
+  "virtual-keyboard": "لوحة المفاتيح الافتراضية",
+  "reading-guide": "دليل القراءة",
+  "stop-animations": "إيقاف المؤثرات الحركية",
+  "reading-mask": "قناع القراءة",
+  "highlight-hover": "تمييز مرور المؤشر",
+  "highlight-focus": "تمييز التركيز",
+  "big-black-cursor": "مؤشر كبير داكن",
+  "big-white-cursor": "مؤشر كبير فاتح",
+  "keyboard-navigation": "مفاتيح التنقل",
+  "text-to-speech": "النص إلى صوت",
+  "useful-links": "مستكشف الروابط",
+
+  "google-translate": "ترجم هذه الصفحة",
+  "select-language": "اختر اللغة",
+
+  "text-to-speech-guide": "حدد جزءًا من النص وانقر على تشغيل للاستماع",
+
+  "reset-button": "إعادة ضبط الإعدادات",
+  "hide-button": "لاتظهر أدوات منير",
+  "hide-forever-message"  : "هل تريد إخفاء أدات منير لسهولة الوصول بشكل دائم؟ يرجى ملاحظة: إذا اخترت إخفاء واجهة الوصول، لن تتمكن من رؤيتها مرة أخرى، ما لم تمسح ملفات تعريف الارتباط لهذا الموقع. هل أنت متأكد من رغبتك في إخفاء الواجهة؟",
+
+  "accessibility-statement": "إشعار أدوات منير",
+
+  "home": "الرئيسية",
+  "default": "افتراضي",
+  "change-color": "تغيير اللون إلى",
+  "select": "اختر من القائمة",
+  "expand": "توسيع",
+  "reset": "إعادة",
+
+  "last-command": "الأمر الأخير",
+  "recognition-error":  "لايوجد صوت، يرجى التحقق من المايكروفون لديك وإعادة المحاولة.",
+  "recognition-end": "تم إيقاف الأستماع للأوامر الصوتية.",
+
+  "help": "مساعده",
+  "help-me": "ساعدني",
+  "please-help": "ارجو المساعده",
+  "show-commands": "اظهر لي الاوامر",
+  "available-commands": "الاوامر المتاحه",
+  "list-commands": "قائمه الاوامر",
+
+  "hide-help": "اخفاء المساعده",
+  "hide-commands": "اخفاء الاوامر الصوتيه",
+
+  "scroll-down": "نزول للاسفل",
+  "down": "تحت",
+  "page-down": "اسفل الصفحه",
+  "go-down": "اذهب للاسفل",
+
+  "scroll-up": "صعود للاعلى",
+  "up": "فوق",
+  "page-up": "اعلى الصفحه",
+  "go-up": "اذهب للاعلى",
+
+  "go-to-top": "اذهب لبدايه الصفحه",
+  "scroll-to-top": "اصعد للاعلى",
+
+  "go-to-bottom": "اذهب لآخر الصفحه",
+  "scroll-to-bottom": "انزل لآخر الصفحه",
+
+  "tab": "انتقال تاب",
+  "next": "التالي",
+
+  "tab-back": "رجوع تاب",
+  "back": "رجوع",
+  "previous": "السابق",
+
+  "move-up": "تحرك للاعلى",
+  "move-left": "تحرك لليسار",
+  "left": "يسار",
+  "move-right": "تحرك لليمين",
+  "right": "يمين",
+  "move-down": "تحرك للاسفل",
+
+  "clear-input": "تصفيه المدخلات",
+  "erase": "مسح",
+  "remove": "حذف",
+  "delete": "الغاء",
+
+  "enter": "ادخال",
+
+  "stop": "توقف",
+  "stop-voice-navigation": "ايقاف الاوامر الصوتيه",
+
+  "reload": "تحديث",
+  "reload-page": "اعاده الصفحه",
+  "refresh-page": "تحديث الصفحه",
+
+  "exit": "خروج",
+
+  "close-widget": "اغلاق منير",
+  "hide-widget": "اخفاء منير",
+
+  "follow-link": "تصفح الروابط",
+
+  "say-something": "جاري الاستماع ...",
+
+  "theme-switcher": "تبديل السمة",
+  "dark-theme": "سمة داكنة",
+  "light-theme": "سمة فاتحة",
+  "system-theme": "سمة النظام"
+}

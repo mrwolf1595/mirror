@@ -1,0 +1,188 @@
+{
+  "open-accessibility-panel": "Open Accessibility Panel",
+  "close-accessibility-panel": "Close Accessibility Panel",
+
+  "popup-title": "Accessibility Tools",
+
+  "oversize": "Oversize Widget",
+  "colors-settings": "Color Settings",
+
+  "section-accessibility-modes": "Accessibility Modes",
+
+  "mode-epilepsy-title": "Epilepsy Safe Mode",
+  "mode-epilepsy-short": "Dampens color and removes blinks",
+  "mode-epilepsy-description": "This mode enables people with epilepsy to use the website safely by eliminating the risk of seizures that result from flashing or blinking animations and risky color combinations.",
+
+  "mode-visually-impaired-title": "Visually Impaired Mode",
+  "mode-visually-impaired-short": "Improves websites visuals",
+  "mode-visually-impaired-description": "This mode adjusts the website for the convenience of users with visual impairments such as Degrading Eyesight, Tunnel Vision, Cataract, Glaucoma, and others.",
+
+  "mode-cognitive-disability-title": "Cognitive Disability Mode",
+  "mode-cognitive-disability-short": "Helps to focus on specific content",
+  "mode-cognitive-disability-description": "This mode provides different assistive options to help users with cognitive impairments such as Dyslexia, Autism, CVA, and others, to focus on the essential elements of the website more easily.",
+
+  "mode-motor-impaired-title": "Motor Impaired Mode",
+  "mode-motor-impaired-short": "Allows using the website with a keyboard",
+  "mode-motor-impaired-description": "This mode enables people with motor impairments to operate the website by using the keyboard Tab, Shift+Tab, and the Enter keys. Users can also use speech recognition software such as Dragon Naturally Speaking.",
+
+  "mode-adhd-friendly-title": "ADHD Friendly Mode",
+  "mode-adhd-friendly-short": "Reduces distractions and improve focus",
+  "mode-adhd-friendly-description": "This mode helps users with ADHD and Neurodevelopmental disorders to read, browse, and focus on the main website elements more easily while significantly reducing distractions.",
+
+  "mode-colorblind-title": "Colorblind Mode",
+  "mode-colorblind-short": "Adjusts the website for colorblind users",
+  "mode-colorblind-description": "This mode adjusts the website for colorblind users such as Protanopia, Deuteranopia, Tritanopia, and others. It also helps users with Cataracts and Glaucoma.",
+
+  "mode-dyslexia-friendly-title": "Dyslexia Friendly Mode",
+  "mode-dyslexia-friendly-short": "Helps users with Dyslexia",
+  "mode-dyslexia-friendly-description": "This mode adjusts the website to be easier to read for people with Dyslexia, which is a reading disability characterized by trouble with reading despite normal intelligence.",
+
+  "mode-blind-users-title": "Blindness Mode",
+  "mode-blind-users-short": "Allows using the site with your screen-reader",
+  "mode-blind-users-description": "This mode configures the website to be compatible with screen-readers such as JAWS, NVDA, VoiceOver, and TalkBack. A screen-reader is software for blind users that is installed on a computer and smartphone, and websites must be compatible with it.",
+
+  "lear-more-wikipedia": "Learn more in Wikipedia",
+  "online-dictionary": "Online Dictionary",
+  "search-placeholder-wikipedia": "Search the online dictionary...",
+
+  "section-readable-experience": "Readable Experience",
+  "voice-navigation": "Voice Navigation",
+  "content-scaling": "Content Scaling",
+  "content-size": "Content Size",
+  "text-magnifier": "Text Magnifier",
+  "readable-font": "Readable Font",
+  "dyslexia-font": "Dyslexia Friendly",
+  "highlight-titles": "Highlight Titles",
+  "highlight-links": "Highlight Links",
+  "font-sizing": "Font Sizing",
+  "font-size": "Font Size",
+  "line-height": "Line Height",
+  "letter-spacing": "Letter Spacing",
+  "word-spacing": "Word Spacing",
+  "letter-space": "Letter Space",
+  "align-left": "Left Aligned",
+  "align-center": "Center Aligned",
+  "align-right": "Right Aligned",
+  "align-justify": "Justified",
+  "text-alignment": "Text Alignment",
+
+  "section-visually-pleasing-experience": "Visually Pleasing Experience",
+  "smart-contrast": "Smart Contrast",
+  "dark-contrast": "Dark Contrast",
+  "light-contrast": "Light Contrast",
+  "invert-colors": "Invert Colors",
+  "monochrome": "Monochrome",
+  "high-contrast": "High Contrast",
+  "high-saturation": "High Saturation",
+  "low-saturation": "Low Saturation",
+  "text-colors": "Adjust Text Colors",
+  "title-colors": "Adjust Title Colors",
+  "background-colors": "Adjust Background Colors",
+  "reset-colors": "Reset Colors",
+
+  "section-easy-orientation": "Easy Orientation",
+  "mute-sounds": "Mute Sounds",
+  "hide-images": "Hide Images",
+  "image-alt": "Image Caption",
+  "virtual-keyboard": "Virtual Keyboard",
+  "reading-guide": "Reading Guide",
+  "stop-animations": "Stop Animations",
+  "reading-mask": "Reading Mask",
+  "highlight-hover": "Highlight Hover",
+  "highlight-focus": "Highlight Focus",
+  "big-black-cursor": "Big Dark Cursor",
+  "big-white-cursor": "Big Light Cursor",
+  "keyboard-navigation": "Navigation Keys",
+  "text-to-speech": "Text to Speech",
+  "useful-links": "Link navigator",
+
+  "google-translate": "Translate page",
+  "select-language": "Select Language",
+
+  "text-to-speech-guide": "Highlight a piece of text and click Play to listen",
+
+  "reset-button": "Reset Settings",
+  "hide-button": "Hide Forever",
+  "hide-forever-message"  : "Hide Accessibility Interface? Please note: If you choose to hide the accessibility interface, you won\"t be able to see it anymore, unless you clear clear cookies for this site. Are you sure that you wish to hide the interface?",
+
+  "accessibility-statement": "Accessibility Statement",
+
+  "home": "Home",
+  "default": "Default",
+  "change-color": "Change Color to",
+  "select": "Select an option",
+  "expand": "Expand",
+  "reset": "Reset",
+
+  "last-command": "Last Command",
+  "recognition-error":  "No sound. Check your microphone and try again.",
+  "recognition-end": "Voice recognition paused.",
+
+  "help": "Help",
+  "help-me": "Help me",
+  "please-help": "Please help",
+  "show-commands": "Show Commands",
+  "available-commands": "Available commands",
+  "list-commands": "List commands",
+
+  "hide-help": "Hide help",
+  "hide-commands": "Hide commands",
+
+  "scroll-down": "Scroll down",
+  "down": "Down",
+  "page-down": "Page Down",
+  "go-down": "Go Down",
+
+  "scroll-up": "Scroll up",
+  "up": "Up",
+  "page-up": "Page Up",
+  "go-up": "Go Up",
+
+  "go-to-top": "Go to top",
+  "scroll-to-top": "Scroll to Top",
+
+  "go-to-bottom": "Go to bottom",
+  "scroll-to-bottom": "Scroll to Bottom",
+
+  "tab": "Tab",
+  "next": "Next",
+
+  "tab-back": "Tab back",
+  "back": "Back",
+  "previous": "Previous",
+
+  "move-up": "Move Up",
+  "move-left": "Move Left",
+  "left": "Left",
+  "move-right": "Move Right",
+  "right": "Right",
+  "move-down": "Move Down",
+
+  "clear-input": "Clear Input",
+  "erase": "Erase",
+  "remove": "Remove",
+  "delete": "Delete",
+
+  "enter": "Enter",
+
+  "stop": "Stop",
+  "stop-voice-navigation": "Stop Voice Navigation",
+
+  "reload": "Reload",
+  "reload-page": "Reload Page",
+  "refresh-page": "Refresh Page",
+
+  "exit": "Exit",
+
+  "close-widget": "Close Widget",
+  "hide-widget": "Hide Widget",
+
+  "follow-link": "Follow Link",
+
+  "say-something": "Say something...",
+
+  "theme-switcher": "Theme Switcher",
+  "dark-theme": "Dark Theme",
+  "light-theme": "Light Theme",
+  "system-theme": "System Theme"
+}

@@ -1,0 +1,20 @@
+body {
+}
+.large-swal {
+    width: 80% !important;
+}
+
+.code {
+    border: 1px solid;
+    padding: 15px;
+    background: #eee;
+    font-size: 12px;
+    font-family: monospace;
+    overflow: auto;
+    white-space: nowrap;
+}
+.services-row.cols-1 .card {
+    width: calc(100% / 1 - 16px);
+    max-width: calc(100% / 1 - 16px);
+    margin: 8px;
+}
